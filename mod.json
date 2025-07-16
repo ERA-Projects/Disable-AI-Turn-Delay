@@ -15,6 +15,10 @@
     },
     "author": "SadnessPower",
     "homepage": "",
+    "icon": {
+        "file": "missingIcon.ico",
+        "index": 0
+    },
     "mod_version": "1.0",
     "priority": 0,
     "platform": "era",
