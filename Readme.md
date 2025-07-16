@@ -24,5 +24,5 @@ https://github.com/SadnessPower/Disable-AI-Turn-Delay_Source
 -----------------------------------------------------------------------------------------------------------------------
 CREDITS
 -----------------------------------------------------------------------------------------------------------------------
-SadnessPower [SadnessPower](mailto:fallenstar268@icqmail.com)
-
+[SadnessPower](mailto:fallenstar268@icqmail.com) - Implementation  
+Demoix - Idea and testing
