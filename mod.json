@@ -1,0 +1,24 @@
+{
+    "caption": {
+        "en_US": "Disable AI Turn Delay",
+        "ru_RU": ""
+    },
+    "description": {
+        "full": {
+            "en_US": "Readme.md",
+            "ru_RU": ""
+        },
+        "short": {
+            "en_US": "",
+            "ru_RU": ""
+        }
+    },
+    "author": "SadnessPower",
+    "homepage": "",
+    "mod_version": "1.0",
+    "priority": 0,
+    "platform": "era",
+    "info_version": "1.0",
+    "plugins": {},
+    "category": "gameplay"
+}
