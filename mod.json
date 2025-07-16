@@ -16,7 +16,7 @@
     "author": "SadnessPower",
     "homepage": "",
     "icon": {
-        "file": "missingIcon.ico",
+        "file": "DisableAITurnDelay.ico",
         "index": 0
     },
     "mod_version": "1.0",
