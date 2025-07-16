@@ -1,6 +1,7 @@
 # DISABLE AI TURN DELAY
 
-Removes sounds and unnecessary delay during AI turn when picking up resources, visiting certain objects and fighting monsters.
+Removes sounds and unnecessary delays during AI turn when picking up resources, visiting certain objects and fighting monsters.
+This will speed up AI turn especially if you set it at fastest speed.
 
 In the following cases:
 - AI hero loses the fight
