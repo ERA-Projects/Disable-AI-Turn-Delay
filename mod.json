@@ -1,12 +1,12 @@
 {
     "caption": {
         "en_US": "Disable AI Turn Delay",
-        "ru_RU": ""
+        "ru_RU": "Отключение задержки хода ИИ"
     },
     "description": {
         "full": {
             "en_US": "Readme.md",
-            "ru_RU": ""
+            "ru_RU": "readme_ru.md"
         },
         "short": {
             "en_US": "",
